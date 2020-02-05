@@ -1,0 +1,15 @@
+.nav_cont {
+  margin: 40px;
+}
+.nav_item {
+  text-decoration: none;
+  color: cadetblue;
+  margin: 0 10px;
+}
+.nav_item:hover {
+  color: #3f6f71;
+}
+.text {
+  color: #111111;
+}
+/*# sourceMappingURL=style.css.map */
