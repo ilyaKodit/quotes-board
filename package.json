@@ -1,0 +1,19 @@
+{
+  "name": "quotes-board",
+  "version": "1.0.0",
+  "description": "Табло котировок",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyaKodit/quotes-board.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyaKodit/quotes-board/issues"
+  },
+  "homepage": "https://github.com/ilyaKodit/quotes-board#readme"
+}
