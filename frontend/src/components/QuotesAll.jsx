@@ -32,7 +32,7 @@ class QuotesAll extends Component {
     componentDidMount = async () => {
         this.onChange({
             target: {
-                value: 'RUB'
+                value: this.props.quotesSelect
             }
         });
     };
